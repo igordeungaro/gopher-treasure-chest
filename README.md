@@ -4155,3 +4155,12 @@ We welcome contributions! Please refer to our [CONTRIBUTING.md](https://github.c
 ## License
 
 This project is licensed under the [MIT License](https://github.com/avelino/awesome-go/blob/main/LICENSE) - see the LICENSE file for details.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [avelino/awesome-go](https://github.com/avelino/awesome-go), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/avelino/awesome-go
